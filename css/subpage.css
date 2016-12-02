@@ -5,12 +5,12 @@
  }
  
  #container-full1 {
-     background-image: url("../2/BK.png");
+     background-image: url("../2/BK2.png");
      background-repeat: no-repeat;
      background-size: cover;
      min-height: 100%;
      height: 100%;
-     border: 10px solid darkblue;
+     border: 10px solid #172A88;
  }
  
  #container-full2 {
